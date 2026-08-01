@@ -859,6 +859,63 @@ CONTACT
     transform:translateY(-5px);
     box-shadow:0 0 35px rgba(0,168,255,.55);
 }
+.youtube-button{
+
+background:#ff0000;
+
+color:white;
+
+padding:16px 40px;
+
+border-radius:50px;
+
+text-decoration:none;
+
+font-weight:700;
+
+transition:.35s;
+
+}
+
+.youtube-button:hover{
+
+transform:translateY(-5px);
+
+box-shadow:0 0 35px #ff0000;
+
+}
+
+.tiktok-button{
+
+background:#111;
+
+border:2px solid #00f2ea;
+
+color:white;
+
+padding:16px 40px;
+
+border-radius:50px;
+
+text-decoration:none;
+
+font-weight:700;
+
+transition:.35s;
+
+}
+
+.tiktok-button:hover{
+
+background:#00f2ea;
+
+color:black;
+
+transform:translateY(-5px);
+
+box-shadow:0 0 35px #00f2ea;
+
+}
 
 /*=========================
 FOOTER
